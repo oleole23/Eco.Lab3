@@ -272,7 +272,6 @@ IEcoLab1VTblEvents g_x2D2E3B9214F248A6A09ECB494B59C795VTblEvents = {
     CEcoLab1Sink_OnBeforeBucketSort,
 	CEcoLab1Sink_OnAfterBucketSort,
 	CEcoLab1Sink_BucketSortStep
-	/*добавить свое*/
 };
 
 /*
